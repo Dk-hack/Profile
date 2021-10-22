@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 22 Oct 2021 18:34:09 at https://pushkarmaurya.me/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pushkarmaurya.me/ -O1 "C:\My Web Sites\dk" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:34:28	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/code.jquery.com/jquery-3.5.1.slim.min.js (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/cdn.jsdelivr.net/npm/popper.js%401.16.1/dist/umd/popper.min.js (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/translate.google.com/translate_a/elementa0d8.html?cb=googleTranslateElementInit (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/dataeasy.herokuapp.com/assets/images/slider-icon.png (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/www.kindpng.com/picc/m/459-4593856_video-conferencing-clipart-png-transparent-png.png (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/www.qr-code-generator.com/wp-content/themes/qr/new_structure/markets/core_market_full/generator/dist/generator/assets/images/websiteQRCode_noFrame.png (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/cdn.searchenginejournal.com/wp-content/uploads/2020/02/how-hackers-may-be-hurting-your-seo-5e45656cd8c2e.html (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/miro.medium.com/max/6406/1_QN0n6KOTKFIGksURddy0Kg.png (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/img.freepik.com/free-vector/people-making-list-illustration_53876-43029b5e7.jpg?size=626&ext=jpg (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/platform.twitter.com/widgets.js (from https://pushkarmaurya.me/)
+18:34:41	Error: 	"Not Found" (404) at link https://pushkarmaurya.me/code.jquery.com/jquery-2.2.1.min.js (from https://pushkarmaurya.me/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 seconds : 76 links scanned, 62 files written (6849164 bytes overall) [5807576 bytes received at 181486 bytes/sec], 1956743 bytes transferred using HTTP compression in 53 files, ratio 37%, 19.0 requests per connection
+(13 errors, 0 warnings, 0 messages)
